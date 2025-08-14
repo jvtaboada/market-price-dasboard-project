@@ -2,8 +2,10 @@
 
 🛠️ Work in Progress.... 🛠️
 
-<overview>
+--visão geral do projeto (objetivo - tecnologias - resultado)
 
-<documentação completa e instalação mkdocs>
+--diagrama da arquitetura do projeto
 
-<diagrama arquitetura do projeto>
+--documentação completa e instalação em mkdocs
+
+
